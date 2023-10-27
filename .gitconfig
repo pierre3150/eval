@@ -1,0 +1,7 @@
+[safe]
+	directory = /var/www/html/coursGith
+	directory = /var/www/html/evaluation
+	directory = /var/www/html/evaluation
+[user]
+	email = pierre.parain315@gmail.com
+	name = pierre
